@@ -1,0 +1,29 @@
+body {
+    background: rgb(128, 128, 204);
+    font: normal 15pt Arial;
+
+}
+header {
+    text-align: center;
+    color: white;
+    font-size: 20pt;
+
+}
+section {
+    text-align: center;
+    background: white;
+    border-radius: 15px;
+    padding: 30px;
+    width: 550px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.734);
+}
+select#txtsel {
+    width: 180px;
+}
+input {
+    width: 80px;
+}
+div{
+    text-align: left;
+}
